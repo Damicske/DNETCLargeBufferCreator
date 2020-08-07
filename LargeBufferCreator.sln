@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LargeBufferCreator", "LargeBufferCreator.vbproj", "{CD165749-53F7-451F-9E42-9EC603751428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD165749-53F7-451F-9E42-9EC603751428}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{CD165749-53F7-451F-9E42-9EC603751428}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{CD165749-53F7-451F-9E42-9EC603751428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD165749-53F7-451F-9E42-9EC603751428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4EC3D4-E41F-44AC-BDCD-548B8D346D5D}
+	EndGlobalSection
+EndGlobal
